@@ -5,4 +5,4 @@ Welcome to the Open Source Software Neighborhood Watch (OSSNW)! <img src="https:
 
 This is the gathering place of individuals at the intersection of open source software and security. Open source is a global public good, and we aim to understand how the open source ecosystems works with the goal of increased stablity, security, and continunity.
 
-We welcome to you to start or join a [discussion](https://github.com/Open-Source-Software-Neighborhood-Watch/HQ/discussions) or [issue](https://github.com/Open-Source-Software-Neighborhood-Watch/HQ/issues).
+We welcome you to start or join a [discussion](https://github.com/Open-Source-Software-Neighborhood-Watch/HQ/discussions) or [issue](https://github.com/Open-Source-Software-Neighborhood-Watch/HQ/issues).
