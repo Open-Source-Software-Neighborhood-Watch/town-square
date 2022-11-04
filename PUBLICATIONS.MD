@@ -1,6 +1,6 @@
 # Publications Associated with One or More Members of the OSS Neighborhood Watch
 
-[John Speed Meyers, Zack, Tom Pike, and Jackie Kazil, "Dependency Issues: Solving the World's Open-Source Software Security Problem," War on the Rocks, May 5, 2022.](https://warontherocks.com/2022/05/dependency-issues-solving-the-worlds-open-source-software-security-problem/)
+[John Speed Meyers, Zack Newman, Tom Pike, and Jackie Kazil, "Dependency Issues: Solving the World's Open-Source Software Security Problem," War on the Rocks, May 5, 2022.](https://warontherocks.com/2022/05/dependency-issues-solving-the-worlds-open-source-software-security-problem/)
 
 [Dan Geer, John Speed Meyers, and Jacqueline Kazil, Tom Pike, "Should Uncle Sam Worry About ‘Foreign’ Open-Source Software? Geographic Known Unknowns and Open-Source Software Security", Lawfare, August 25, 2022.](https://www.lawfareblog.com/should-uncle-sam-worry-about-foreign-open-source-software-geographic-known-unknowns-and-open-source)
 
