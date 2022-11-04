@@ -6,4 +6,4 @@
 
 [Thomas Pike, Robert Colter, Mark Bailey, Jackie Kazil, and John Speed Meyers, "Social Networks as a Collective Intelligence: An Examination of the Python Ecosystem," arxiv, 2022.](https://arxiv.org/pdf/2201.06040.pdf)
 
-John Speed Meyers, George Sieniawski, Jackie Kazil, and Tom Pike, "The Case fo an Open Source Source Software Neighborhood Watch," SIGNAL, February 2022. Link TBD.
+[John Speed Meyers, George Sieniawski, Jackie Kazil, and Tom Pike, "A Neighborhood Watch for Open-Source Software," SIGNAL, February 2022.](https://www.afcea.org/signal-media/technology/neighborhood-watch-open-source-software)
